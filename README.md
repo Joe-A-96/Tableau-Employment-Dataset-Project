@@ -34,16 +34,16 @@ This project showcases expertise in economic data handling, time-series visualiz
 
 ### Visualisations included 
 
-* ** Change Per Industry ** created a visualisation showcasing the number of changes per industry
+* **Change Per Industry** created a visualisation showcasing the number of changes per industry
 <img width="444" height="559" alt="image" src="https://github.com/user-attachments/assets/3b09bb2c-4a8f-4d64-94c1-3b0cd3134fe5" />
 
-* ** Top 10 Average Percent change Per Industry ** created a visualisation showcasing the percent change per industry
+* **Top 10 Average Percent change Per Industry** created a visualisation showcasing the percent change per industry
 <img width="446" height="540" alt="image" src="https://github.com/user-attachments/assets/b48c750e-fe22-4dbb-8ae8-60444bab9bb9" />
 
-* ** Average percent change by city ** created a visualisation showcasing the average percent change via city
+* **Average percent change by city** created a visualisation showcasing the average percent change via city
 <img width="460" height="580" alt="image" src="https://github.com/user-attachments/assets/49dd8744-3bfa-4378-84e7-0eb8647b63e1" />
 
-* ** Top 10 Sub Industry ** created a visualisation showcasing the numver of changes per sub industry
+* **Top 10 Sub Industry** created a visualisation showcasing the numver of changes per sub industry
 <img width="427" height="579" alt="image" src="https://github.com/user-attachments/assets/4b6782cd-6eaa-4e2e-bfbb-6dee6f4c5a9a" />
 
 ### Interactivity & Dashboard Design
@@ -55,16 +55,7 @@ This project showcases expertise in economic data handling, time-series visualiz
 <img width="1029" height="1201" alt="image" src="https://github.com/user-attachments/assets/91ae6605-14da-4278-b667-4f442b9f59d4" />
 
 
-***
 
-## 📂 Project Files
-
-This project is packaged as a Tableau Workbook, which contains the data source, all sheets, and the final dashboard.
-
-| File Name | Description |
-| :--- | :--- |
-| `Dataemploymentset.twbx` | The complete, packaged Tableau workbook containing the entire analysis and the final interactive dashboard. |
-
-** Link to my Dashboard **
+**Link to my Dashboard**
 
 [Link to my Dashboard](https://public.tableau.com/views/Dataemploymentset/ChangeperIndustry?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
