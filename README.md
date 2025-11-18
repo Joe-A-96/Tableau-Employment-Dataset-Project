@@ -64,3 +64,7 @@ This project is packaged as a Tableau Workbook, which contains the data source, 
 | File Name | Description |
 | :--- | :--- |
 | `Dataemploymentset.twbx` | The complete, packaged Tableau workbook containing the entire analysis and the final interactive dashboard. |
+
+** Link to my Dashboard **
+
+[Link to my Dashboard](https://public.tableau.com/views/Dataemploymentset/ChangeperIndustry?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
