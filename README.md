@@ -1,5 +1,3 @@
-# Tableau-Employment-Dataset-Project
-
 ## 💼 Employment Data Analysis and Visualization (Tableau)
 
 **An interactive data visualization dashboard built in Tableau to explore, analyze, and track key employment indicators, labor market trends, and demographic factors across a given dataset.**
